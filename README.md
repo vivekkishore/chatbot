@@ -1,2 +1,2 @@
 # chatbot
-Learning in the way of working with chatbots
+Learnings in the way of working with chatbots
